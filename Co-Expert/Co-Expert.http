@@ -1,0 +1,6 @@
+@Co_Expert_HostAddress = http://localhost:5107
+
+GET {{Co_Expert_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
